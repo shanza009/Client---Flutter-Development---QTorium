@@ -1,0 +1,7 @@
+{
+  "name": "QTorium Universal UI Shell v1.1",
+  "description": "Universal UI Shell v1.1 implementation and testing suite for QTorium with M2–M6 module navigation, display-name pass alignment (Educator v7.6, Institution v6.5, boardEX v3.5, Admin v4.4), Admin 55% AI / 45% Dev Execution Split (Document 2 v2.1), draggable clamped divider, full-width body expansion, independent dual scrolling, Dark/Light theme parity, multi-viewport verification (1920px, 1024px, 768px, 375px), automated test suites, and complete Milestone 1, 2, and 3 delivery evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
